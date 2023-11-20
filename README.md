@@ -1,10 +1,11 @@
-- 👋 Hi, I’m Sumanth Kumar Chitirala
-- 👀 I’m actively Seeking a position in finance with focus on Analytics
-- 🌱 I’m currently learning Analytics tools
-- 📫 You can reach me on [LinkedIn Profile] (www.linkedin.com/in/sumanth-kumar-chitirala)
-- 
-
-
+- 👋 Hi, I’m Sumanth Kumar Chitirala.
+- 👀 I’m actively Seeking a position in finance with focus on Analytics.
+- 🌱 I’m currently learning Analytics tools.
+- 📫 You can reach me on [LinkedIn Profile] (www.linkedin.com/in/sumanth-kumar-chitirala).
+- My qualifications include CA-IPCC from the Institute of Chartered Accountants of India and a B.Com from Indira Gandhi National University.
+-  
+-
+-
 - 
 - 
 
